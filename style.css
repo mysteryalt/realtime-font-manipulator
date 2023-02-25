@@ -1,0 +1,32 @@
+#heading {
+    background-color: rgb(124, 124, 218);
+    width: 100%;
+    color: white;
+    margin: 0px;
+    font-family: fantasy;
+}
+    #note {
+        color: black;
+        
+        }
+
+    #copy_right_footer {
+            position: fixed;
+            
+            color: black;
+            
+            bottom: 0;
+            width: 100%;
+            background-color: rgb(245, 89, 89);
+            line-height: 3;
+            font-family: cursive;
+           text-align: center;
+        }
+
+        canvas {
+
+            box-shadow: 5px 5px 5px grey;
+            border: 5px dashed black;
+        
+        }
+        
